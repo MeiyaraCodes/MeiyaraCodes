@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05160e9d-d19d-45cb-9aca-006a521d705e)# 👩🏻‍💻 Giselle De Leon
+# 👩🏻‍💻 Giselle De Leon
 
 **`Meiyara Codes - Digital Craftsman (Web Developer/Designer/Writer)`**
 
