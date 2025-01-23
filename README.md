@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👩🏻‍💻 Giselle De Leon
+
+**`Meiyara Codes - Digital Craftsman (Web Developer/Designer/Writer)`**
 
 <!--
 **MeiyaraCodes/MeiyaraCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
