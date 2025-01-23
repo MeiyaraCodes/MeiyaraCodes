@@ -7,9 +7,9 @@ I'm a creative multi-hobbyist who dived into tech and digital stuff. My interest
 ### 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/gisellespeaks/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/linkedin.png" /></a>
   &#8287;&#8287;
-<a href="https://www.threads.net/@sweettoothiees"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/threads.png" />
+<a href="https://www.threads.net/@sweettoothiees"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/threads.png" /></a>
  &#8287;&#8287;
-<a href="mailto:meiyara.codes@gmail.com"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/gmail.png" />
+<a href="mailto:meiyara.codes@gmail.com"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="img/gmail.png" /></a>
 
 
 ---
