@@ -4,10 +4,12 @@
 
 I'm a creative multi-hobbyist who dived into tech and digital stuff. My interests revolve around psychology, problem-solving, writing, music, and hiking. I am using the power of the digital workspace to capture my travels, hikes, and artistic crafts. I have an art blogsite <a href="https://meiyara.art.blog/">Meiyara Manawari</a>.
 
-### 🔗 Connect with Me
+~~~ ### 🔗 Connect with Me
   <a href="https://www.linkedin.com/in/gisellespeaks/"><img width="30px" style="padding-right:10px;" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/gisellespeaks/"><img width="30px" style="padding-right:10px;" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287; 
+~~~
 
 ---
 
