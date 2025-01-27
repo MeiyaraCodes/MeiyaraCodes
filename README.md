@@ -28,7 +28,14 @@ I'm a creative multi-hobbyist who dived into tech and digital stuff. My interest
 
 
 ### 📊 Stats
-![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiyaraCodes&show_icons=true&theme=rose_pine)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeiyaraCodes&show_icons=true&theme=rose_pine&hide_border=false" style="width: auto; height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeiyaraCodes&theme=rose_pine&hide_border=false&layout=compact" style="width: auto; height: 150px;">
+</div>
+
+
+
+
 
 
 
